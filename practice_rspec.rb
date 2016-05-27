@@ -2,6 +2,7 @@ def square(num)
   num*num
 end
 
+
 def living_object(obj)
   obj
 end
